@@ -1,7 +1,7 @@
 <?php
 
-    # Anothony Matarazzo - http://phpprofessional.us
-    # Travis Ballard - http://travis ballard.com
+    # Anthony Matarazzo - http://phpprofessional.us
+    # Travis Ballard - http://travisballard.com
 
     define( "API_LOGIN_ID", "" );
     define( "API_TRANSACTION_KEY", "" );
